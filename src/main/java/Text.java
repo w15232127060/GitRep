@@ -8,6 +8,7 @@ import java.util.Map;
 public class Text {
     public static void main(String[] args) {
         int i = -156;
+int s = 1;
 
         int res = 0;
 
